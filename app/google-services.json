@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563527993712",
+    "firebase_url": "https://godriwala-darshan-3b132.firebaseio.com",
+    "project_id": "godriwala-darshan-3b132",
+    "storage_bucket": "godriwala-darshan-3b132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563527993712:android:4e043fae116b9330",
+        "android_client_info": {
+          "package_name": "godriwaladarshan.xyz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563527993712-hdf6bm3357pl35thukfbk2635gpdm5dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "godriwaladarshan.xyz",
+            "certificate_hash": "639B7D47A4611EEFBB3E78D89994AA1FF5AF49BA"
+          }
+        },
+        {
+          "client_id": "563527993712-4t23t9n3iuqviadu0d7sloblobuunfmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyzRnOHs_kGAKPVfnpQ3ZvF8tucfe1cs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563527993712-4t23t9n3iuqviadu0d7sloblobuunfmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

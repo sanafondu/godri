@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Godriwala Darshan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_logo">NATIONAL GEOGRAPHIC</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="action_settings">Settings</string>
+    <string name="some_string">Download Image</string>
+</resources>

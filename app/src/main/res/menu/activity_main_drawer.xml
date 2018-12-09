@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_bhajan"
+            android:icon="@drawable/bhajan"
+            android:title="Bhajan's" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Video" />
+        <item
+            android:id="@+id/nav_ringtone"
+            android:icon="@drawable/ringtone"
+            android:title="Ringtone" />
+        <item
+            android:id="@+id/nav_lyrics"
+            android:icon="@drawable/lyrics"
+            android:title="Lyrics" />
+        <item
+            android:id="@+id/nav_aarti"
+            android:icon="@drawable/pujathali"
+            android:title="Aarti" />
+        <item
+            android:id="@+id/nav_mahima"
+            android:icon="@drawable/mahima"
+            android:title="Baba Ki Mahima" />
+        <item
+            android:id="@+id/nav_jivni"
+            android:icon="@drawable/jivni"
+            android:title="Baba Ki Jivni" />
+        <item
+            android:id="@+id/nav_dham"
+            android:icon="@drawable/dham"
+            android:title="Baba Ke Dham" />
+        <item
+            android:id="@+id/nav_prasad"
+            android:icon="@drawable/prasad"
+            android:title="Godriwala Prasad" />
+        <item
+            android:id="@+id/nav_live"
+            android:icon="@drawable/livefeed"
+            android:title="Live Programmes" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>
